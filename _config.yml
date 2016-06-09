@@ -1,0 +1,14 @@
+layout_spectrum: 0.08823967911303043
+typography_spectrum: 0.9495010182727128
+color:
+  brandStrength: 0.3904140235390514
+  lightness: 0.3783482473809272
+  saturation: 0.6078054516110569
+  rhythmicContrast: 0.798397881211713
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: Sol
